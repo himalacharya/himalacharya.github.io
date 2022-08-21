@@ -15,7 +15,7 @@ redirect_from:
 * I graduated in Master's degree in Information and Communication Engineering at the [Pulchowk Campus, Tribhuvan University](https://www.pcampus.edu.np).
 * I received my Bachelor’s Degree in Electronics and Communication Engineering from [Pashchimanchal Campus (formerly Western Region Campus), Tribhuvan University ](https://www.ioepas.edu.np/)
 *  My research interests are Computer Vision, Deep Learning and Biomedical Image Analysis.
-*  I am working as Assistant professor at Department of Electrical and Electronics Engineering, [Nepal College of Information Technology](ncit.edu.np), Lalitpur, Nepal.
+*  I am working as Assistant professor at Department of Electrical and Electronics Engineering, [Nepal College of Information Technology](https://www.ncit.edu.np), Lalitpur, Nepal.
 
 
 # Recent News
