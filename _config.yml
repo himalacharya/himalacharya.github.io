@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me - Himal Acharya"
+title                    : "Himal Acharya"
 title_separator          : "-"
 name                     : &name "Himal Acharya"
 description              : &description "Lecturer, Nepal College of Information Technology"
