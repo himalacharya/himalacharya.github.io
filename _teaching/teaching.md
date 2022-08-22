@@ -5,11 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 <br/>
-<br/>
-<br/>
 
 TEACHING AND RESEARCH EXPERIENCE
-=====
+====
 
 Feb 2017- Present
 ======
