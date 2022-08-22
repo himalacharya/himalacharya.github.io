@@ -3,7 +3,7 @@ title: "Abnormal motion pattern detection in video sequences by an unsupervised 
 collection: publications
 permalink: /publication/EASR
 date: 2021-07-09
-venue: 'Journal 1'
+venue: 'EASR'
 citation: 'Acharya, H., & Joshi, B. (2021). Abnormal motion pattern detection in video sequences by an unsupervised approach. Engineering and Applied Science Research, 48(5), 509–517.'
 ---
 
