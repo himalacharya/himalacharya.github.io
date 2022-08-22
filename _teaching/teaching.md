@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Experience"
+permalink: /teaching/
+author_profile: true
+---
 TEACHING AND RESEARCH EXPERIENCE
 =====
 
