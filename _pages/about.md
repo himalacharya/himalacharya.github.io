@@ -17,18 +17,16 @@ redirect_from:
 
 # Education
 1.	MSc in Information and Communication Engineering
-Tribhuvan University, Institute of Engineering, [Pulchowk Campus, Tribhuvan University](https://www.pcampus.edu.np). 
-April 2017- May 2019
-Major Subjects: _Color Image Technology, Image Processing, Machine Learning & Pattern Recognition_
-
-Average: 85.93 %
+  Tribhuvan University, Institute of Engineering, [Pulchowk Campus, Tribhuvan University](https://www.pcampus.edu.np). 
+  April 2017- May 2019
+  Major Subjects: _Color Image Technology, Image Processing, Machine Learning & Pattern Recognition_
+  Average: 85.93 %
 
 2.	Bachelors in Electronics and Communication Engineering
-Tribhuvan University, [Pashchimanchal Campus (formerly Western Region Campus), Tribhuvan University ](https://www.ioepas.edu.np/)
-Nov 2007- Nov 2011
-Major Subjects: _Analog and Digital Signal Processing, Communication Systems, Electronics Circuit_
-
-Average: 76.26 %
+    Tribhuvan University, [Pashchimanchal Campus (formerly Western Region Campus), Tribhuvan University ](https://www.ioepas.edu.np/)
+    Nov 2007- Nov 2011
+    Major Subjects: _Analog and Digital Signal Processing, Communication Systems, Electronics Circuit_
+    Average: 76.26 %
 
 # Recent News
 * May 13, 2022. Launched Android app related to medical reports. [ICE-Medical Reports](https://play.google.com/store/apps/details?id=inc.techxonia.icemedicalreportsemergency).
