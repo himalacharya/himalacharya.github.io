@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 *  My research interests are Computer Vision, Deep Learning and Biomedical Image Analysis.
-*  I am working as Assistant professor at Department of Electrical and Electronics Engineering, [Nepal College of Information Technology](https://www.ncit.edu.np), Lalitpur, Nepal.
+*  I am working as Lecturer at Department of Electrical and Electronics Engineering, [Nepal College of Information Technology](https://www.ncit.edu.np), Lalitpur, Nepal.
 
 # Education
 1.	MSc in Information and Communication Engineering <br />   
