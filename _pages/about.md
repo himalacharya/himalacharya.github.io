@@ -15,7 +15,7 @@ redirect_from:
 *  My research interests are Computer Vision, Deep Learning and Biomedical Image Analysis.
 *  I am working as Lecturer at Department of Electrical and Electronics Engineering, [Nepal College of Information Technology](https://www.ncit.edu.np), Lalitpur, Nepal.
 
-*  View my detailed CV (Last Updated around June 2025)
+  [View my detailed CV](http://himalacharya.github.io/files/Himal_Acharya_Academic_CV.pdf) (Last Updated around June 2025)
 
 # Education
 1.	MSc in Information and Communication Engineering <br />   
