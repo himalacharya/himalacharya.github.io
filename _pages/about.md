@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://himalacharya.github.io/files/Himal_IMG.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+
 
 
 *  I am working as Lecturer at Department of Electrical and Electronics Engineering, [Nepal College of Information Technology](https://www.ncit.edu.np), Lalitpur, Nepal.
