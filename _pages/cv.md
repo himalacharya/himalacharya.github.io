@@ -6,4 +6,3 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Click here to view my CV in pdf](http://himalacharya.github.io/files/Himal_Acharya_Academic_CV.pdf)
